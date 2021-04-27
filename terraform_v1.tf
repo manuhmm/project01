@@ -144,6 +144,6 @@ resource "azurerm_virtual_machine" "myterraformvm" {
     }
     
     tags {
-        environment = "Terraform"
+        environment = "Ter"
     }
 }
